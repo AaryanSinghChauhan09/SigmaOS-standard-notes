@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_standard_notes"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_standard_notes"
+path = "src/lib.rs"
